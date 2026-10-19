@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:000000,100:3a3a3a&height=220&section=header&text=SEBASTI%C3%81N&fontColor=ffffff&fontSize=60&desc=Backend%20%7C%20Bases%20de%20Datos&descSize=18&descAlignY=72" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:2b2b2b,100:000000&height=200&section=header&text=SEBASTI%C3%81N&fontColor=ffffff&fontSize=56&fontAlignY=42&desc=Backend%20%7C%20Bases%20de%20Datos&descSize=18&descAlignY=68&descColor=b0b0b0" width="100%" alt="SEBASTIÁN" />
 </p>
-
 # «Tranquilos, ya llegué yo a resolver lo que ustedes no pudieron».
 
 <p align="center">
